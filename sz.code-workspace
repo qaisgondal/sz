@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\oldOSMS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "OSMS"
+	}
+}
